@@ -1,6 +1,6 @@
 [[CURRENCIES]]
-code="MyToken"
-issuer="G_ISSUER_PUBLIC_KEY"
-name="My Token Name"
+code="LFT"
+issuer="GAYQ7VLN23CN7TXS4JLOO3CWQ5KMXI3MFKLDQWHJLEFCLDMVTOY76LJ7"
+name="LFT"
 desc="وصف مختصر للتوكن الخاص بك"
-image="https://yourdomain.com/logo.png"
+image="https://lilyfit.github.io/LFT.jpg"
