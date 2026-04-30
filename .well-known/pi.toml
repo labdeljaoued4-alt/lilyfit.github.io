@@ -1,0 +1,6 @@
+[[CURRENCIES]]
+code="MyToken"
+issuer="G_ISSUER_PUBLIC_KEY"
+name="My Token Name"
+desc="وصف مختصر للتوكن الخاص بك"
+image="https://yourdomain.com/logo.png"
